@@ -198,7 +198,7 @@ function howit(params) {
 }
 
 function about() {
-    alert("Author:- Aniket Khanagar");
+    alert("Author:- Arif Hussain");
 }
 
 function feature(){
